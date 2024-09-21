@@ -7,6 +7,7 @@ const App = () => {
       <Calci/>
     </div>
   )
+  
 }
 
 export default App
